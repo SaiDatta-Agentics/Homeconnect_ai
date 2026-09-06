@@ -1,0 +1,7 @@
+backend/.env
+backend/homeconnect.db
+backend/homeconnect.db-shm
+backend/homeconnect.db-wal
+.git
+.gitignore
+frontend/node_modules
